@@ -1,9 +1,10 @@
 
 
 
-### Hi 👋, I'm Alejo Avendaño.
+![giphy (1)](https://user-images.githubusercontent.com/104663987/200986546-22f6c325-d63c-4af7-b079-cf40074350b4.gif)
 
-![giphy](https://user-images.githubusercontent.com/104663987/200986206-2e7d2990-6cb1-4145-abd9-3d16e0369642.gif)
+
+### Hi 👋, I'm Alejo Avendaño.
 
 
     I'm Alejo, a Full Stack Web developer I stand out for teamwork, explaining and communicating an idea adequately.
