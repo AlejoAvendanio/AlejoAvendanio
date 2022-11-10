@@ -1,9 +1,9 @@
 ### Hi 👋, I'm Alejo Avendaño.
 
-
-
- I'm Alejo, a Full Stack Web developer I stand out for teamwork, explaining and communicating an idea adequately.
+    I'm Alejo, a Full Stack Web developer I stand out for teamwork, explaining and communicating an idea adequately.
     I have leadership attitudes with a lot of empathy and listening.
+
+
 <!--
 **AlejoAvendanio/AlejoAvendanio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
